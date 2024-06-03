@@ -14,4 +14,5 @@ The project description can be found in the [Google Slide](https://docs.google.c
 The project preview  can be found in the [Screenshot](https://ibb.co/HV1jYNC) Link
 
 ##Application
-[Checkout APP] https://forecastify-azure.vercel.app/ Link
+
+[Checkout APP](https://forecastify-azure.vercel.app/) Link
