@@ -8,7 +8,7 @@ Forecastify is a web application designed to provide personalized weather foreca
 
 • Deployed Site: [Forecastify](https://forecastify-azure.vercel.app/)
 
-• Project Blog Article: Read the [Blog Post](https://www.linkedin.com/pulse/added-comprehensive-explanation-dns-resolution-process-solomon-aberra-aabje/)
+• Project Blog Article: Read the [Blog Post](https://www.linkedin.com/pulse/forecastify-personalized-weather-web-app-solomon-aberra-yzoqf/)
     
 • Author LinkedIn: [Solomon Aberra](https://www.linkedin.com/in/solomon-aberra17/)
     
